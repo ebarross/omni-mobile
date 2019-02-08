@@ -13,7 +13,6 @@ import {
 } from 'react-native';
 
 export default class Login extends Component {
-
     state = {
         username: ''
     };
